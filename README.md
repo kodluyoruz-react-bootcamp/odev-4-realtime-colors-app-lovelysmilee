@@ -1,2 +1,1 @@
-# :sparkles: Real-Time Colors App :sparkles:
-
+# :sparkles: Real-Time Colors App
